@@ -1,6 +1,6 @@
 {
   "name": "sui-bcs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "gen.js",
   "type": "module",
